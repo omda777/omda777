@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm <b>Abdelrahman Emad</b> 👨‍💻</h2>
 
-<!--
-**omda777/omda777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend developer focused on <b>.NET / Node.js</b> with strong problem-solving skills.
+</p>
 
-Here are some ideas to get you started:
+- 💻 Backend Developer  
+- 🧠 Passionate about algorithms, competitive programming, and open-source contributions  
+- 📚 Learning database internals and system design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/omda7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/_Omda7">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+</p>
