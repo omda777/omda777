@@ -1,7 +1,7 @@
 <h2 align="center">Abdelrahman Emad</h2>
 <h4 align="center">Software Engineer · Open-Source Contributor</h4>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="330" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 #### About
 
